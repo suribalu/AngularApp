@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular2Demo", "Angular2Demo\Angular2Demo.csproj", "{32F973B6-CD54-40CD-9A80-9777F02C89F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticReportsAPI", "LogisticReportsAPI\LogisticReportsAPI.csproj", "{04330873-4134-4807-8994-94FC835451B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F973B6-CD54-40CD-9A80-9777F02C89F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F973B6-CD54-40CD-9A80-9777F02C89F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F973B6-CD54-40CD-9A80-9777F02C89F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F973B6-CD54-40CD-9A80-9777F02C89F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04330873-4134-4807-8994-94FC835451B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04330873-4134-4807-8994-94FC835451B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04330873-4134-4807-8994-94FC835451B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04330873-4134-4807-8994-94FC835451B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
